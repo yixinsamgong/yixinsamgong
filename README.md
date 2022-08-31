@@ -4,6 +4,6 @@ I am a junior full-stack software engineer and recent graduate of Flatiron Schoo
 
 - 🔭 I’m currently working on: polishing my capstone project and building my portfolio
 - 🌱 I’m currently learning: DSA, Java and Python
-<!-- - 📫 How to reach me: huh? -->
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/yixingong/">LinkedIn</a>
 
 
