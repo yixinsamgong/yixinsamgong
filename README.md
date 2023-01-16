@@ -7,6 +7,6 @@ I am a junior full-stack software engineer and recent graduate of Flatiron Schoo
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/yixingong/">LinkedIn</a>
 
 <img src= "https://github-readme-stats-sigma-five.vercel.app/api?username=yixinsamgong&count_private=true" />
-<!-- <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=yixinsamgong&layout=compact&count_private=true" /> -->
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=yixinsamgong&layout=compact&count_private=true" />
 
 
