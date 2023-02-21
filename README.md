@@ -1,4 +1,4 @@
-### Hi! this is Yixin. 👋 
+### Hi! this is Yixin! 👋 
 
 I am a junior full-stack software engineer and recent graduate of Flatiron School. I am very passionate about innovations and how creative ideas come into being. A fast learner with inquisitiveness, I am a detailed and goal-oriented team player and look forward to solving problems with others in a creative way. I am proficient in Javascript, React, CSS, HTML, and Ruby on Rails.
 
