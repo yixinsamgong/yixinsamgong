@@ -2,8 +2,8 @@
 
 I am a junior full-stack software engineer and recent graduate of Flatiron School. I am very passionate about innovations and how creative ideas come into being. A fast learner with inquisitiveness, I am a detailed and goal-oriented team player and look forward to solving problems with others in a creative way. I am proficient in Javascript, React, CSS, HTML, and Ruby on Rails.
 
-- 🔭 I’m currently working on: polishing my capstone project and building my portfolio
-- 🌱 I’m currently learning: React Native and Python 
+- 🔭 I’m currently working on: polishing my capstone project and building my portfolio.
+- 🌱 I’m currently learning: React Native and Python.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/yixingong/">LinkedIn</a>, <a href="mailto:yixin.sam.gong@gmail.com">Email</a>
 
 <h3 align="left">My stack: </h3>
